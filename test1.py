@@ -81,7 +81,11 @@ if __name__  =="__main__":
         elif "open video" in query:
             cr7=r"C:\Users\sy aguero\Desktop\cr7.mp4"
             os.startfile(cr7)
+        elif "open video2" in query:
+            cr7=r"C:\Users\sy aguero\Desktop\cr7.mp4"
+            os.startfile(cr7)
         elif 'time' in query:
             time()
+
 
         
